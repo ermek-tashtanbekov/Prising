@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0  0 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 50px;
+
+}
+.company{
+    font-size: 20px;
+    padding-left: 25px;
+    font-weight: 500;
+    font-family: 'roboto', sans-serif;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    font-size: ;
+}
