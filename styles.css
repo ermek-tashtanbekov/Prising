@@ -62,7 +62,7 @@ nav ul li a{
         display: flex;
         align-items: center;
         flex-direction: column; 
-        margin: 0 auto;
+        margin: 0 auto
     }
     nav ul {
         display: flex;
@@ -70,8 +70,24 @@ nav ul li a{
         flex-direction: column; 
         padding: 0;
     }
-    nav ul .foot{
+    nav ul .li2 .foot{
         border: none;
 
     }
+}
+main .text-1{
+    text-align: center;
+    font-family: 'roboto', sans-serif;
+    padding-top: 70px;
+}
+.text-h1{
+    font-weight: 500;
+    font-size: 45px;
+}
+.lead{
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+    line-height: 30px;
+    font-size: 19px;
 }
