@@ -229,3 +229,17 @@ footer{
 h5{
     font-size: 20px;
 }
+@media(max-width:619px){
+    .row{
+        display: flex;
+        
+        flex-direction: column;
+        padding-left: 0 ;
+    }
+    .col-2{
+        padding-left: 0 ;
+    }
+    h5{
+        padding-top: 15px;
+    }
+}
